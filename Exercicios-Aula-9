@@ -74,4 +74,4 @@ console.log(computador);
 computador.push("SSD7");
 console.log(computador);
 computador.splice(3, 2);
-console.log(computador);
+console.log(computador.length);
